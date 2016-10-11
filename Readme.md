@@ -11,4 +11,10 @@
 - ”Require” object is predefined in Node which is used to include modules in the app.	 Browsers don’t have “require” predefined. You may include it in your app for asynchronous file loading.
 - In Node everything is a module. You must keep your code inside a module.	 Moduling is not mandatory in client side JavaScript, i.e. in browsers.
 - Node processes request object.	 Browsers processes response objects.
+
+### What is npm? Why would we want to use it?
+### What is gulp and what is it used for?
+### What is a common use for environment variables?
+### What is the difference between concatenation and minification?
+### What is linting? Why is it useful in development?
   
